@@ -1,0 +1,21 @@
+strong {
+    color: brown
+}
+
+p.doan1 {
+    color: red
+}
+
+p.doan2 {
+    color: blue
+}
+
+p.doan3 {
+    color: green
+}
+
+h2 {
+    color: pink ;
+    font-size: 30px;
+    
+}
